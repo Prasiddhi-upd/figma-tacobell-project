@@ -53,7 +53,5 @@ The prototype currently includes three key screens:
 ---
 
 ## 👤 Author
-Designed by *[Your Name]*  
-📧 Contact: [your.email@example.com]  
-🌐 Portfolio: [your-portfolio-link]
+Recreated by *Prasiddhi Upadhyay*  
 
